@@ -3,6 +3,6 @@ A futuristic interface of a door written in Fabric JavaScript canvas library, JQ
 
 Check out the Application at http://ksharm22.people.uic.edu/
 
-<a href="url"><img src="https://github.com/sbajaj7/Smart-Door/blob/master/p2.jpg" align="left" height="500" width="280" ></a>
+<a href="url"><img src="https://github.com/sbajaj7/Smart-Door/blob/master/p2.jpg" align="center" height="500" width="480" ></a>
 
 
